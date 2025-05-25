@@ -8,7 +8,6 @@ The **Mobile Accessories Web Application** is a full-stack e-commerce platform w
 ## Features
 - **User Authentication & Authorization**: 
   - Users can register, log in, and log out securely.
-  - Role-based access (e.g., admin and customer).
   - Secure authentication implemented with **Passport.js**.
 
 - **Product Management**:
@@ -26,7 +25,6 @@ The **Mobile Accessories Web Application** is a full-stack e-commerce platform w
 ## Technologies Used
 ### Frontend:
 - **HTML,CSS and JavaScript**
-- **Bootstrap** or **Material-UI** for styling
 
 ### Backend:
 - **Node.js** and **Express.js**
@@ -36,7 +34,7 @@ The **Mobile Accessories Web Application** is a full-stack e-commerce platform w
 
 ### Authentication:
 - **Passport.js**
-- **JSON Web Tokens (JWT)** for session handling
+
 
 ### Other Tools:
 - **Axios** for API calls
